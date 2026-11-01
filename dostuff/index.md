@@ -1,3 +1,8 @@
+---
+title: DoStuff!
+icon: /dostuff/icon.png
+home: /dostuff/
+---
 # DoStuff!
 
 **If you want stuff done... do stuff!**
