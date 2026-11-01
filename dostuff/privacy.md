@@ -1,3 +1,8 @@
+---
+title: DoStuff! privacy policy
+icon: /dostuff/icon.png
+home: /dostuff/
+---
 # DoStuff! privacy policy
 
 *Last updated: 1 November 2026*
