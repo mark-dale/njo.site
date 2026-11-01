@@ -1,7 +1,7 @@
 ---
 title: NEVigator privacy policy
 icon: /nevigator/icon.png
-home: /nevigator/privacy
+home: /nevigator/
 ---
 # NEVigator privacy policy
 
